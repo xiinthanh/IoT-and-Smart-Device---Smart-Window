@@ -5,7 +5,7 @@
     "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "IOT_HUB_CONNECTION_STRING": "<connection_string>",
-    "REGISTRY_MANAGER_CONNECTION_STRING": "registry_manager_connection_string",
+    "REGISTRY_MANAGER_CONNECTION_STRING": "<registry_manager_connection_string>",
     "DEVICE_ID": "smart-window-x509"
   }
 }
